@@ -1,2 +1,4 @@
 #!bin/bash
 echo "Khaja"
+echo "Hi this is rasool"
+echo "First Jenkins job"
